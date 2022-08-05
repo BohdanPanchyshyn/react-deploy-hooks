@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-deploy-hooks/static/css/main.dbbba462.css",
+    "main.js": "/react-deploy-hooks/static/js/main.fdb8206c.js",
+    "static/media/logo.svg": "/react-deploy-hooks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-deploy-hooks/index.html",
+    "main.dbbba462.css.map": "/react-deploy-hooks/static/css/main.dbbba462.css.map",
+    "main.fdb8206c.js.map": "/react-deploy-hooks/static/js/main.fdb8206c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbbba462.css",
+    "static/js/main.fdb8206c.js"
+  ]
+}
